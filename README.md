@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning at AGH.
 - [Website](JakubZeslawski.github.io)
-- https://github.com/JakubZeslawski/pytorch-image-models
+- Fork: https://github.com/JakubZeslawski/pytorch-image-models
+- Artykuł widelca: https://arxiv.org/pdf/1912.02781v2.pdf
 <!--
 **JakubZeslawski/JakubZeslawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
